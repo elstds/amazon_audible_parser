@@ -1,0 +1,885 @@
+1659093749865	geckodriver	INFO	Listening on 127.0.0.1:47369
+1659093750416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehA89Xj"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659093753632	Marionette	INFO	Marionette enabled
+1659093753642	Marionette	INFO	Listening on port 44031
+WebDriver BiDi listening on ws://localhost:42181
+Read port: 44031
+1659093754066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehA89Xj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42181/devtools/browser/176b1a90-390b-4722-a1d3-dc006109694f
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659093768609	Marionette	INFO	Stopped listening on port 44031
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1659094268721	geckodriver	INFO	Listening on 127.0.0.1:43613
+1659094269838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerizkCO"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659094272940	Marionette	INFO	Marionette enabled
+1659094272950	Marionette	INFO	Listening on port 35415
+WebDriver BiDi listening on ws://localhost:46883
+Read port: 35415
+1659094273371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerizkCO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46883/devtools/browser/f8d4382a-27b1-41bf-a8cc-19c36c0d3e64
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659094288919	Marionette	INFO	Stopped listening on port 35415
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659094335329	geckodriver	INFO	Listening on 127.0.0.1:36697
+1659094335615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebqqigH"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659094337846	Marionette	INFO	Marionette enabled
+1659094337856	Marionette	INFO	Listening on port 39213
+WebDriver BiDi listening on ws://localhost:39551
+Read port: 39213
+1659094338216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebqqigH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39551/devtools/browser/7026204d-25f1-4d50-a648-a741c3430940
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659094351210	Marionette	INFO	Stopped listening on port 39213
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659094427728	geckodriver	INFO	Listening on 127.0.0.1:35121
+1659094427901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAIfDY5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659094429711	Marionette	INFO	Marionette enabled
+1659094429720	Marionette	INFO	Listening on port 41837
+WebDriver BiDi listening on ws://localhost:59447
+Read port: 41837
+1659094430036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAIfDY5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59447/devtools/browser/41363b4d-2625-43b6-9910-49287fb48b95
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659094445202	Marionette	INFO	Stopped listening on port 41837
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659094491184	geckodriver	INFO	Listening on 127.0.0.1:36407
+1659094491397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVX1YWF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659094493346	Marionette	INFO	Marionette enabled
+1659094493355	Marionette	INFO	Listening on port 35151
+WebDriver BiDi listening on ws://localhost:57805
+Read port: 35151
+1659094493678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVX1YWF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57805/devtools/browser/deb4acc2-e1a7-42e5-b6a9-64b55f8cca80
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659094509045	Marionette	INFO	Stopped listening on port 35151
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659094567982	geckodriver	INFO	Listening on 127.0.0.1:50779
+1659094568176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec5gkV5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659094569689	Marionette	INFO	Marionette enabled
+1659094569698	Marionette	INFO	Listening on port 42981
+WebDriver BiDi listening on ws://localhost:51731
+Read port: 42981
+1659094570009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec5gkV5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51731/devtools/browser/f3cc9df9-ceba-4ac9-a137-497bd9590cfa
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659094581979	Marionette	INFO	Stopped listening on port 42981
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659094685082	geckodriver	INFO	Listening on 127.0.0.1:47567
+1659094685779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile734tCJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659094687304	Marionette	INFO	Marionette enabled
+1659094687313	Marionette	INFO	Listening on port 35443
+WebDriver BiDi listening on ws://localhost:40651
+Read port: 35443
+1659094687620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile734tCJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40651/devtools/browser/acd6f5bf-e306-4d07-9033-96247a6ec9c0
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659094705259	Marionette	INFO	Stopped listening on port 35443
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659329518165	geckodriver	INFO	Listening on 127.0.0.1:60881
+1659330319915	geckodriver	INFO	Listening on 127.0.0.1:48519
+1659330320699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "window-size=1366x768" "--remote-debugging-port" "53007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJCORqO"
+*** You are running in headless mode.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+1659330322361	Marionette	INFO	Marionette enabled
+1659330322374	Marionette	INFO	Listening on port 33771
+WebDriver BiDi listening on ws://localhost:53007
+Read port: 33771
+1659330322680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJCORqO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53007/devtools/browser/271ba99e-67c1-41b6-bc04-737e25e625d2
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659330342187	Marionette	INFO	Stopped listening on port 33771
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659330526680	geckodriver	INFO	Listening on 127.0.0.1:51071
+1659330526820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "window-size=1366x768" "--remote-debugging-port" "45455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh11sLp"
+*** You are running in headless mode.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+1659330528368	Marionette	INFO	Marionette enabled
+1659330528378	Marionette	INFO	Listening on port 33089
+WebDriver BiDi listening on ws://localhost:45455
+Read port: 33089
+1659330528657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh11sLp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45455/devtools/browser/7148bba2-d058-458f-b8b2-cf4ebecb071c
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659330547020	Marionette	INFO	Stopped listening on port 33089
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659330703838	geckodriver	INFO	Listening on 127.0.0.1:55037
+1659330704733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "window-size=1366x768" "--remote-debugging-port" "38933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb3MEHT"
+*** You are running in headless mode.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+1659330706249	Marionette	INFO	Marionette enabled
+1659330706260	Marionette	INFO	Listening on port 37067
+WebDriver BiDi listening on ws://localhost:38933
+Read port: 37067
+1659330706570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb3MEHT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38933/devtools/browser/476dea26-3f84-4dd3-8970-2d00de72886a
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659330734047	Marionette	INFO	Stopped listening on port 37067
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659330849128	geckodriver	INFO	Listening on 127.0.0.1:43021
+1659330849461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "window-size=1366x768" "--remote-debugging-port" "46087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepkY8HM"
+*** You are running in headless mode.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+1659330850665	Marionette	INFO	Marionette enabled
+1659330850674	Marionette	INFO	Listening on port 44645
+WebDriver BiDi listening on ws://localhost:46087
+Read port: 44645
+1659330850952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepkY8HM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46087/devtools/browser/ba0f801c-edc4-4e8f-bed0-14403139d4a3
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659330867976	Marionette	INFO	Stopped listening on port 44645
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659332786113	geckodriver	INFO	Listening on 127.0.0.1:50313
+1659332786641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40811" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev40RVd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659332789246	Marionette	INFO	Marionette enabled
+1659332789257	Marionette	INFO	Listening on port 38785
+Read port: 38785
+WebDriver BiDi listening on ws://localhost:40811
+1659332789623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev40RVd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40811/devtools/browser/2abb2f24-accb-42b0-ab30-e082b99a81ec
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659332804631	Marionette	INFO	Stopped listening on port 38785
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659332916143	geckodriver	INFO	Listening on 127.0.0.1:60461
+1659332916342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA0bgfw"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659332918246	Marionette	INFO	Marionette enabled
+1659332918258	Marionette	INFO	Listening on port 45173
+WebDriver BiDi listening on ws://localhost:39313
+Read port: 45173
+1659332918605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0bgfw/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39313/devtools/browser/0df50ec8-21af-46b7-b6f5-bcd12352039f
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659332935240	Marionette	INFO	Stopped listening on port 45173
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659333074117	geckodriver	INFO	Listening on 127.0.0.1:42383
+1659333074293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNrsxER"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659333076116	Marionette	INFO	Marionette enabled
+1659333076125	Marionette	INFO	Listening on port 39411
+WebDriver BiDi listening on ws://localhost:37237
+Read port: 39411
+1659333076447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNrsxER/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37237/devtools/browser/cbb53b1f-9c8f-4f4b-927f-ee8e9c5e6a83
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659333095081	Marionette	INFO	Stopped listening on port 39411
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659333130729	geckodriver	INFO	Listening on 127.0.0.1:39545
+1659333130881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKzTXOv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659333132664	Marionette	INFO	Marionette enabled
+1659333132673	Marionette	INFO	Listening on port 42071
+Read port: 42071
+WebDriver BiDi listening on ws://localhost:50665
+1659333133001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKzTXOv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50665/devtools/browser/b69c348f-419e-4c9d-a59e-5befae0aa449
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659333143936	Marionette	INFO	Stopped listening on port 42071
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659333249718	geckodriver	INFO	Listening on 127.0.0.1:44369
+1659333249978	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilescYMjS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659333251424	Marionette	INFO	Marionette enabled
+1659333251433	Marionette	INFO	Listening on port 40643
+WebDriver BiDi listening on ws://localhost:49655
+Read port: 40643
+1659333251758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilescYMjS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49655/devtools/browser/00cf724e-56c9-4089-be82-d917b1588b8b
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659333265033	Marionette	INFO	Stopped listening on port 40643
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659333642799	geckodriver	INFO	Listening on 127.0.0.1:56843
+1659333643430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelFUUia"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659333644889	Marionette	INFO	Marionette enabled
+1659333644898	Marionette	INFO	Listening on port 40139
+WebDriver BiDi listening on ws://localhost:53361
+Read port: 40139
+1659333645219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelFUUia/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53361/devtools/browser/2551be09-f489-4955-baa5-1af9be7b63c1
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659333762066	geckodriver	INFO	Listening on 127.0.0.1:41689
+1659333762920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef5g4hU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659333765343	Marionette	INFO	Marionette enabled
+1659333765353	Marionette	INFO	Listening on port 35961
+WebDriver BiDi listening on ws://localhost:40103
+Read port: 35961
+1659333765691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef5g4hU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40103/devtools/browser/ff121285-b861-422b-a949-20a05ce50316
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659333871017	Marionette	INFO	Stopped listening on port 35961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1659333871602	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2022-08-01T06:04:31Z ERROR glean] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "Нет такого файла или каталога" })) }
+1659333881667	geckodriver	INFO	Listening on 127.0.0.1:51001
+1659333881947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVSqDMx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659333883768	Marionette	INFO	Marionette enabled
+1659333883777	Marionette	INFO	Listening on port 32945
+WebDriver BiDi listening on ws://localhost:60779
+Read port: 32945
+1659333884102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVSqDMx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60779/devtools/browser/996aa67d-6c3d-4181-91a6-866efe5b92de
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659334012343	geckodriver	INFO	Listening on 127.0.0.1:58187
+1659334012697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekefo5k"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659334014545	Marionette	INFO	Marionette enabled
+1659334014556	Marionette	INFO	Listening on port 36609
+WebDriver BiDi listening on ws://localhost:47891
+Read port: 36609
+1659334014877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekefo5k/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47891/devtools/browser/17802882-7a15-4827-bbb4-1b3292383b27
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659334067503	geckodriver	INFO	Listening on 127.0.0.1:34909
+1659334067906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledSNg5I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659334069687	Marionette	INFO	Marionette enabled
+1659334069696	Marionette	INFO	Listening on port 34325
+WebDriver BiDi listening on ws://localhost:58415
+Read port: 34325
+1659334070022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledSNg5I/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58415/devtools/browser/dd8ac288-b776-4611-ab25-5cc084f53437
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+1659334090712	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+1659334329147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+1659334508525	Marionette	INFO	Stopped listening on port 34325
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659335598452	geckodriver	INFO	Listening on 127.0.0.1:51849
+1659335599630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6G23WS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659335602635	Marionette	INFO	Marionette enabled
+1659335602646	Marionette	INFO	Listening on port 37789
+WebDriver BiDi listening on ws://localhost:38157
+Read port: 37789
+1659335603044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6G23WS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38157/devtools/browser/8e4321ac-1bda-4294-bf27-e6963da64a49
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+1659335617934	Marionette	INFO	Stopped listening on port 37789
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1659335701116	geckodriver	INFO	Listening on 127.0.0.1:35659
+1659335701266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJaASAt"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib64/dri/iHD_drv_video.so
+libva info: va_openDriver() returns -1
+libva info: Trying to open /usr/lib64/dri/i965_drv_video.so
+libva info: va_openDriver() returns -1
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1659335703579	Marionette	INFO	Marionette enabled
+1659335703589	Marionette	INFO	Listening on port 40077
+Read port: 40077
+WebDriver BiDi listening on ws://localhost:44641
+1659335703947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJaASAt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44641/devtools/browser/553099fd-0b35-4d60-a550-ae98ae911890
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://tr.snapchat.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+1659335726123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+1659335739791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/S/audible-seo-analytics/Launch/launch-3111109c87da.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.audible.com"
+1659335755155	Marionette	INFO	Stopped listening on port 40077
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
